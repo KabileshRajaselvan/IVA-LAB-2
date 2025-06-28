@@ -4,7 +4,7 @@
 **Author**: A. Kabilesh Rajaselvan
 **Reg. No**: 21MIA1132
 **Institution**: VIT Chennai – SCOPE School
-**Course**: Intelligent Video Analytics Lab (IVA)
+**Course**: Image and Video Analytics Lab (IVA)
 
 
 ---
